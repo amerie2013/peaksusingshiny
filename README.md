@@ -23,7 +23,7 @@ In this project we will run a program to find the peaks of the data. Our data ha
   To check the effection you can uploud the file **DataFile1.csv** (It is available in the store of the project.
    the picture will show this way
    
-    ![](20190401_195800.png?raw=true)
+ ![](20190401_195800.png?raw=true)
     
     And after you uplode the file you get this:
     
